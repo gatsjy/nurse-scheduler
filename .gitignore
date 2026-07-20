@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+nurse_debug.log
+*.db
+.DS_Store
+dist/*
+!dist/NurseScheduler.exe
+build/
+# 생성 출력물(근무표 PDF/엑셀)
+근무표_*.pdf
+스케줄_*.xlsx
+*.xlsx
+*.pdf
